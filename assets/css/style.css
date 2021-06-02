@@ -1059,11 +1059,16 @@ section {
 .footer{
   margin-top: -60px;
   position: center; 
-  text-align: left;
+  text-align: center;
   
   background-color: #000711;
 }
 
 .footer .credits{
   color:white;
+}
+
+.footer .download
+{
+  color:grey;
 }
