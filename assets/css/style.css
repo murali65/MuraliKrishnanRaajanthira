@@ -1100,3 +1100,19 @@ section {
   }
 
 }
+
+@media only screen and (max-width: 400px) {
+
+  .blog {
+    display: block;
+    z-index: 999;
+    background: transparent;
+    position: relative;
+    margin-top: -220%;
+    margin-left: -90%;
+    text-decoration: solid;
+    font-weight: bold;
+    
+  }
+
+}
